@@ -1,8 +1,0 @@
-{
-    "apiVersion": 2,
-    "title": "Are You Paying Attention?",
-    "name": "myfirstblock/are-you-paying-attention",
-    "category": "common",
-    "icon": "smiley",
-    "editorScript": "file:./index.js"
-}
