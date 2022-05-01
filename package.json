@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "pull-git-data",
+  "version": "1.0.0",
+  "description": "",
+
+  "scripts": {
+    "build": "wp-scripts build src/index.js src/modules/GetGitApi.js",
+    "start": "wp-scripts start src/index.js src/modules/GetGitApi.js"
+  },
+  "dependencies": {
+    "@wordpress/scripts": "^22.5.0",
+    "axios": "^0.27.2"
+  }
+}
